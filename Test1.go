@@ -7,6 +7,7 @@ type User struct {
 	FirstName, LastName string
 }
 
+// Greeting
 // Greeting lskgkh iosdgj sdpog psdofjksd fpsdf pfjksd fpsdf opdfs
 // Greeting gfhljh jhfg pgh :
 func (U *User) Greeting() string {
